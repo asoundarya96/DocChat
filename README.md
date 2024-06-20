@@ -27,5 +27,9 @@ CREATE TABLE documents (
     embedding VECTOR(384) -- Set dimensions based on embed model
 );```
 
-https://github.com/asoundarya96/DocChat/assets/24543401/8d2d5b58-a3ea-4a84-a181-195cd713a83d
+
+![watch video](https://github.com/asoundarya96/DocChat/assets/24543401/45df50a1-339d-4802-9f9c-8d1cb239de69)
+
+
+
 
