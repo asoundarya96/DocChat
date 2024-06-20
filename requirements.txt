@@ -1,0 +1,12 @@
+fastapi==0.111.0
+uvicorn==0.30.1
+psycopg2-binary==2.9.9
+pgvector==0.2.5
+PyMuPDF==1.24.5
+sentence-transformers==3.0.1
+langchain==0.2.5
+langchain_community==0.2.5
+gpt4all==2.7.0
+langchain_postgres==0.0.7
+gradio==4.36.1
+black==24.4.2
