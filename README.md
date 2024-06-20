@@ -6,8 +6,11 @@ This project is a document chat application that allows users to interact with P
 
 - **Interacting with Documents**: Upload your documents via the Gradio interface and start a chat session to interact with the uploaded documents.
 
+<img width="1523" alt="Screenshot 2024-06-20 at 3 40 01 PM" src="https://github.com/asoundarya96/DocChat/assets/24543401/0bbfe410-c4eb-4418-9684-0ef1833915b3">
 
-<video src="https://github.com/asoundarya96/DocChat/assets/24543401/45df50a1-339d-4802-9f9c-8d1cb239de69" width="320" height="240" controls></video>
+<img width="1393" alt="Screenshot 2024-06-20 at 3 45 34 PM" src="https://github.com/asoundarya96/DocChat/assets/24543401/49b8a11f-503c-4355-85e8-1b532166adef">
+
+<img width="1523" alt="Screenshot 2024-06-20 at 3 40 01 PM" src="https://github.com/asoundarya96/DocChat/assets/24543401/02959a3c-f7e8-471f-9c60-71bafaa9358e">
 
 
 ## Implementation
