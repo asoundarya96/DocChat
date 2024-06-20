@@ -6,6 +6,10 @@ This project is a document chat application that allows users to interact with P
 
 - **Interacting with Documents**: Upload your documents via the Gradio interface and start a chat session to interact with the uploaded documents.
 
+
+<video src="https://github.com/asoundarya96/DocChat/assets/24543401/45df50a1-339d-4802-9f9c-8d1cb239de69" width="320" height="240" controls></video>
+
+
 ## Implementation
 
 - **Chat Interface**: Built using Gradio for a user-friendly UI.
@@ -25,10 +29,8 @@ CREATE TABLE documents (
     id SERIAL PRIMARY KEY,
     document BYTEA,
     embedding VECTOR(384) -- Set dimensions based on embed model
-);```
+);
 
-
-![watch video](https://github.com/asoundarya96/DocChat/assets/24543401/45df50a1-339d-4802-9f9c-8d1cb239de69)
 
 
 
