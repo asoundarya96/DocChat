@@ -10,7 +10,8 @@ This project is a document chat application that allows users to interact with P
 
 <img width="1393" alt="Screenshot 2024-06-20 at 3 45 34 PM" src="https://github.com/asoundarya96/DocChat/assets/24543401/49b8a11f-503c-4355-85e8-1b532166adef">
 
-<img width="1523" alt="Screenshot 2024-06-20 at 3 40 01 PM" src="https://github.com/asoundarya96/DocChat/assets/24543401/02959a3c-f7e8-471f-9c60-71bafaa9358e">
+<img width="1405" alt="image" src="https://github.com/asoundarya96/DocChat/assets/24543401/7766d866-c997-47d2-82eb-a81ef90390c6">
+
 
 
 ## Implementation
