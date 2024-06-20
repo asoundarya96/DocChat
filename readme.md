@@ -26,3 +26,6 @@ CREATE TABLE documents (
     document BYTEA,
     embedding VECTOR(384) -- Set dimensions based on embed model
 );
+
+https://github.com/asoundarya96/DocChat/assets/24543401/8d2d5b58-a3ea-4a84-a181-195cd713a83d
+
